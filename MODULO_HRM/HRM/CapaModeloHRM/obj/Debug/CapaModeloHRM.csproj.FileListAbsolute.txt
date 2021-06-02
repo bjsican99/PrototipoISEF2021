@@ -1,0 +1,52 @@
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb

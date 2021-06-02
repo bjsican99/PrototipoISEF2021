@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudasMantenimiento.chm
+Contents file=AyudasOrozco.hhc
+Default Window=AyudaMantenimientoP
+Display compile progress=No
+Language=0x580a Español (Latinoamérica)
+
+[WINDOWS]
+AyudaMantenimientoP="Mantenimientos","AyudasOrozco.hhc",,,"AYUDA FORMULARIO CURSO.html","AYUDA FORMULARIO CURSO.html","AYUDA FORMULARIO CURSO","AYUDA FORMULARIO PUESTO.html","AYUDA FORMULARIO PUESTO",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+AYUDA FORMULARIO CURSO.html
+AYUDA FORMULARIO PUESTO.html
+
+[INFOTYPES]
+

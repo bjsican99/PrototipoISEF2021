@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{646ADF94-7574-4478-878F-3F2BEA93FB76}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaVistaHRM</RootNamespace>
+    <AssemblyName>CapaVistaHRM</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CapaControladorHRM">
+      <HintPath>..\CapaControladorHRM\bin\Debug\CapaControladorHRM.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVistaNavegador">
+      <HintPath>..\SeguridadNavegador\Navegador\CapaVista\bin\Debug\CapaVistaNavegador.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVistaSeguridad">
+      <HintPath>..\SeguridadNavegador\Objeto_Seguridad-master\ObjetoSeguridad\CapaVistaSeguridad\bin\Debug\CapaVistaSeguridad.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsValidacion.cs" />
+    <Compile Include="Emilio\Mantenimientos\faltas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emilio\Mantenimientos\faltas.Designer.cs">
+      <DependentUpon>faltas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emilio\Mantenimientos\frmDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emilio\Mantenimientos\frmDepartamento.Designer.cs">
+      <DependentUpon>frmDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emilio\Procesos\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emilio\Procesos\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Informes\Bitacoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Informes\Bitacoria.Designer.cs">
+      <DependentUpon>Bitacoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Informes\frmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Informes\frmReportes.Designer.cs">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmContratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmContratos.Designer.cs">
+      <DependentUpon>frmContratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmDificultad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmDificultad.Designer.cs">
+      <DependentUpon>frmDificultad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmFormacionAcademica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmFormacionAcademica.Designer.cs">
+      <DependentUpon>frmFormacionAcademica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmLicenciaDeConducir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmLicenciaDeConducir.Designer.cs">
+      <DependentUpon>frmLicenciaDeConducir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmPercepcionesFiscales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmPercepcionesFiscales.Designer.cs">
+      <DependentUpon>frmPercepcionesFiscales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoEntrevista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoEntrevista.Designer.cs">
+      <DependentUpon>frmTipoEntrevista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoHorario.Designer.cs">
+      <DependentUpon>frmTipoHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoMoneda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Mantenimientos\frmTipoMoneda.Designer.cs">
+      <DependentUpon>frmTipoMoneda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Procesos\DGVPrinter.cs" />
+    <Compile Include="Jose\Procesos\frmGenerarNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Procesos\frmGenerarNomina.Designer.cs">
+      <DependentUpon>frmGenerarNomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Procesos\frmNominaIndividual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Procesos\frmNominaIndividual.Designer.cs">
+      <DependentUpon>frmNominaIndividual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jose\Procesos\frmPreparacionDeNomina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jose\Procesos\frmPreparacionDeNomina.Designer.cs">
+      <DependentUpon>frmPreparacionDeNomina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\DatosPersonales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\DatosPersonales.Designer.cs">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\frmTipoEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\frmTipoEvaluacion.designer.cs">
+      <DependentUpon>frmTipoEvaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\frmTipoInduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Mantenimientos\frmTipoInduccion.designer.cs">
+      <DependentUpon>frmTipoInduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmContratacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmContratacion.designer.cs">
+      <DependentUpon>frmContratacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmEntrevista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmEntrevista.designer.cs">
+      <DependentUpon>frmEntrevista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmEvaluacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmEvaluacion.designer.cs">
+      <DependentUpon>frmEvaluacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmInduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmInduccion.designer.cs">
+      <DependentUpon>frmInduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmIngresoReclutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmIngresoReclutas.Designer.cs">
+      <DependentUpon>frmIngresoReclutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarBancoTalento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarBancoTalento.Designer.cs">
+      <DependentUpon>frmMostrarBancoTalento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarEmpleado.Designer.cs">
+      <DependentUpon>frmMostrarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarReclutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manuel\Procesos\frmMostrarReclutas.Designer.cs">
+      <DependentUpon>frmMostrarReclutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI\frmMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI\frmMDI.Designer.cs">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCapacitadorExterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCapacitadorExterno.Designer.cs">
+      <DependentUpon>frmCapacitadorExterno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCompetencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCompetencias.Designer.cs">
+      <DependentUpon>frmCompetencias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmCurso.Designer.cs">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmPuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmPuesto.Designer.cs">
+      <DependentUpon>frmPuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmVerEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Mantenimientos\frmVerEmpleado.Designer.cs">
+      <DependentUpon>frmVerEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmAgregarAcapacitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmAgregarAcapacitacion.Designer.cs">
+      <DependentUpon>frmAgregarAcapacitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmAscenso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmAscenso.Designer.cs">
+      <DependentUpon>frmAscenso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmCapacitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmCapacitacion.Designer.cs">
+      <DependentUpon>frmCapacitacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmPeticionCapacitacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sergio\Procesos\frmPeticionCapacitacion.designer.cs">
+      <DependentUpon>frmPeticionCapacitacion.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Emilio\Mantenimientos\faltas.resx">
+      <DependentUpon>faltas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emilio\Mantenimientos\frmDepartamento.resx">
+      <DependentUpon>frmDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Informes\Bitacoria.resx">
+      <DependentUpon>Bitacoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Informes\frmReportes.resx">
+      <DependentUpon>frmReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmContratos.resx">
+      <DependentUpon>frmContratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmDificultad.resx">
+      <DependentUpon>frmDificultad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmFormacionAcademica.resx">
+      <DependentUpon>frmFormacionAcademica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmLicenciaDeConducir.resx">
+      <DependentUpon>frmLicenciaDeConducir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmPercepcionesFiscales.resx">
+      <DependentUpon>frmPercepcionesFiscales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmTipoEntrevista.resx">
+      <DependentUpon>frmTipoEntrevista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmTipoHorario.resx">
+      <DependentUpon>frmTipoHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Mantenimientos\frmTipoMoneda.resx">
+      <DependentUpon>frmTipoMoneda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Procesos\frmGenerarNomina.resx">
+      <DependentUpon>frmGenerarNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Procesos\frmNominaIndividual.resx">
+      <DependentUpon>frmNominaIndividual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jose\Procesos\frmPreparacionDeNomina.resx">
+      <DependentUpon>frmPreparacionDeNomina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Mantenimientos\DatosPersonales.resx">
+      <DependentUpon>DatosPersonales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Mantenimientos\frmTipoEvaluacion.resx">
+      <DependentUpon>frmTipoEvaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Mantenimientos\frmTipoInduccion.resx">
+      <DependentUpon>frmTipoInduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmContratacion.resx">
+      <DependentUpon>frmContratacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmEntrevista.resx">
+      <DependentUpon>frmEntrevista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmEvaluacion.resx">
+      <DependentUpon>frmEvaluacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmInduccion.resx">
+      <DependentUpon>frmInduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmIngresoReclutas.resx">
+      <DependentUpon>frmIngresoReclutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmMostrarBancoTalento.resx">
+      <DependentUpon>frmMostrarBancoTalento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmMostrarEmpleado.resx">
+      <DependentUpon>frmMostrarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manuel\Procesos\frmMostrarReclutas.resx">
+      <DependentUpon>frmMostrarReclutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI\frmMDI.resx">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Mantenimientos\frmCapacitadorExterno.resx">
+      <DependentUpon>frmCapacitadorExterno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Mantenimientos\frmCompetencias.resx">
+      <DependentUpon>frmCompetencias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Mantenimientos\frmCurso.resx">
+      <DependentUpon>frmCurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Mantenimientos\frmPuesto.resx">
+      <DependentUpon>frmPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Mantenimientos\frmVerEmpleado.resx">
+      <DependentUpon>frmVerEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Procesos\frmAgregarAcapacitacion.resx">
+      <DependentUpon>frmAgregarAcapacitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Procesos\frmAscenso.resx">
+      <DependentUpon>frmAscenso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Procesos\frmCapacitacion.resx">
+      <DependentUpon>frmCapacitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sergio\Procesos\frmPeticionCapacitacion.resx">
+      <DependentUpon>frmPeticionCapacitacion.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayuda.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

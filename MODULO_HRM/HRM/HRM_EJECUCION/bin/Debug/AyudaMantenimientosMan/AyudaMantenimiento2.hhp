@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaMantenimiento2.chm
+Contents file=AyudaMant2.hhc
+Default Window=Ayudas Mantenimientos
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayudas Mantenimientos="Ayudas","AyudaMant2.hhc",,"Ayuda_Mantenimiento Tipo Evaluacion.html","Ayuda_Mantenimiento Tipo Evaluacion.html","Ayuda_Mantenimiento Tipo Evaluacion.html","Ayuda_Mantenimiento Tipo Evaluacion.html","Ayuda_Mantenimiento Tipo Induccion.html","Ayuda_Mantenimiento Tipo Induccion.html",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Ayuda_Mantenimiento Tipo Evaluacion.html
+Ayuda_Mantenimiento Tipo Induccion.html
+
+[INFOTYPES]
+

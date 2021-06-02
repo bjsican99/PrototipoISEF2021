@@ -1,0 +1,740 @@
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Documentos\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDeduccionesFiscales.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Escritorio\Copia 2.0\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+C:\Users\Emilio27\Desktop\fork Emilio\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Escritorio\ProyectoUMGISRUP2k21-main\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmGenerarNomina.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEvaluacion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+C:\Users\opfug\ProyectoUMGISRUP2k21 - copia\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmGenerarNomina.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoEvaluacion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEvaluacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoEvaluacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEvaluacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmPreparacionDeNomina.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmNominaIndividual.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csprojAssemblyReference.cache
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmGenerarNomina.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.DatosPersonales.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoEvaluacion.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEvaluacion.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.MDI.frmMDI.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmPuesto.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmPeticionCapacitacion.resources
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.GenerateResource.cache
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CoreCompileInputs.cache
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.Shared.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\ShockwaveFlashObjects.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\stdole.dll
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaNavegador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaSeguridad.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVistaReporteador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaVista.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorNavegador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorSeguridad.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloSeguridad.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloReporteador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorReporteador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControlador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModeloNavegador.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaModelo.pdb
+D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.csproj.CopyComplete
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmPeticionCapacitacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.faltas.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Emilio.Mantenimientos.frmDepartamento.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmContratos.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmDificultad.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmFormacionAcademica.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmLicenciaDeConducir.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmPercepcionesFiscales.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoEntrevista.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoHorario.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Mantenimientos.frmTipoMoneda.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmGenerarNomina.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmNominaIndividual.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmPreparacionDeNomina.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoEvaluacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEntrevista.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmEvaluacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmIngresoReclutas.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmPeticionCapacitacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAscenso.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmCapacitacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAscenso.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmCapacitacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Properties.Resources.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmNominaIndividual.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Procesos.frmPreparacionDeNomina.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoInduccion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmContratacion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmInduccion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Properties.Resources.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAscenso.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmCapacitacion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmPeticionCapacitacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoInduccion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmContratacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmInduccion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Properties.Resources.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCapacitadorExterno.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCompetencias.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmVerEmpleado.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Mantenimientos.frmTipoInduccion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmContratacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmInduccion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCapacitadorExterno.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAgregarAcapacitacion.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmCalificacion.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.frmReportes.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCompetencias.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmVerEmpleado.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.Bitacoria.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.Bitacoria.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.frmReportes.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\bin\Debug\CapaControladorHRM.dll
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarBancoTalento.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarEmpleado.resources
+C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarReclutas.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarBancoTalento.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarEmpleado.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarReclutas.resources
+D:\Escritorio\ForkHRM\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAgregarAcapacitacion.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.Bitacoria.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Jose.Informes.frmReportes.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarBancoTalento.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarEmpleado.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Manuel.Procesos.frmMostrarReclutas.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCapacitadorExterno.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCompetencias.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmCurso.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Mantenimientos.frmVerEmpleado.resources
+C:\Users\opfug\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaVistaHRM\obj\Debug\CapaVistaHRM.Sergio.Procesos.frmAgregarAcapacitacion.resources

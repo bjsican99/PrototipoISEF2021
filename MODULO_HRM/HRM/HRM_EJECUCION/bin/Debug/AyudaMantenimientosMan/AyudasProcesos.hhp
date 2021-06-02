@@ -1,0 +1,21 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudasProcesos.chm
+Contents file=AyudaProcesos.hhc
+Default Window=Ayudas Procesos
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayudas Procesos="Ayudas de Procesos","AyudaProcesos.hhc",,"Ayuda_Ingreso_Reclutas.html","Ayuda_Ingreso_Reclutas.html","Ayuda_Ingreso_Reclutas.html","Ayuda_Ingreso_Reclutas.html","Ayuda_Contratacion.html","Ayuda_Contratacion.html",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Ayuda_Contratacion.html
+Ayuda_Entrevista.html
+Ayuda_Evaluacion.html
+Ayuda_Induccion.html
+Ayuda_Ingreso_Reclutas.html
+
+[INFOTYPES]
+
