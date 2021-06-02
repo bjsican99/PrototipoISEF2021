@@ -694,4 +694,36 @@ INSERT INTO `tipopercepciondeduccion` (`idTipoPercepcionDeduccion`, `tipoPercepc
 insert into dificultad values(1,'Fácil',1);
 insert into dificultad values(2,'Mediano',1);
 insert into dificultad values(3,'Difícil',1);
-	
+
+-- Mis cambios======================================================================================================
+use HRM;
+create table if not exists TipoRecurso(
+	pkIdTipoRecurso		int(10),
+	nombreDeRecurso 	varchar(35),
+    descripcionRecurso	varchar(200),
+    estadoRecurso		TINYINT,
+    primary key(pkIdTipoRecurso)
+);
+create table if not exists EncabezadoRecursos(
+	pkIdEncabezadoRecursos		int(10)auto_increment,
+    fechaEncabezado				varchar(50),
+    fkIdRecluta					int(10),
+    estado						tinyint,
+    primary key(pkIdEncabezadoRecursos)
+);
+alter table EncabezadoRecursos add constraint fk_encabezado_recluta foreign key (fkIdRecluta) references reclutamiento(idRecluta);
+
+create table if not exists DetalleRecursos(
+	pkIdRegistro				int(10)auto_increment,
+    fkIdEncabezado				int(10),
+    fkidTipoRecurso				int(10),
+    cantidadUtilizada			int(10),
+    primary key(pkIdRegistro)
+);
+alter table DetalleRecursos add constraint fk_Detalle_Encabezado foreign key (fkIdEncabezado) references EncabezadoRecursos(pkIdEncabezadoRecursos);
+alter table DetalleRecursos add constraint fk_Detalle_Recursos foreign key (fkidTipoRecurso) references TipoRecurso(pkIdTipoRecurso);
+
+INSERT INTO `hrm`.`tiporecurso` (`pkIdTipoRecurso`, `nombreDeRecurso`, `descripcionRecurso`, `estadoRecurso`) VALUES ('1', 'Lapiz', 'Lapiz de Madera no2', '1');
+INSERT INTO `hrm`.`tiporecurso` (`pkIdTipoRecurso`, `nombreDeRecurso`, `descripcionRecurso`, `estadoRecurso`) VALUES ('2', 'Lapicero Negro', 'Lacpiceros Negro', '1');
+INSERT INTO `hrm`.`tiporecurso` (`pkIdTipoRecurso`, `nombreDeRecurso`, `descripcionRecurso`, `estadoRecurso`) VALUES ('3', 'Lapicero Azul', 'Lapicero azul', '1');
+INSERT INTO `hrm`.`tiporecurso` (`pkIdTipoRecurso`, `nombreDeRecurso`, `descripcionRecurso`, `estadoRecurso`) VALUES ('4', 'Computadora', 'Computadora HP', '1');
