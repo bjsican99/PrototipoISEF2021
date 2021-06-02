@@ -88,3 +88,12 @@ D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaControladorHRM
 D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.dll
 D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.pdb
 D:\Desktop\nuevoClonacion\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csproj.CopyComplete
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.dll
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.pdb
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaControladorHRM.dll
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaControladorHRM.pdb
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.dll
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaControladorHRM\obj\Debug\CapaControladorHRM.csproj.CopyComplete
