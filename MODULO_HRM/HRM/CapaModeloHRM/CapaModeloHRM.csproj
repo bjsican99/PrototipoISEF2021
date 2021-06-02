@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Billy\clsListaDetalle.cs" />
+    <Compile Include="Billy\clsListaEncabezado.cs" />
+    <Compile Include="Billy\clsQuerrys.cs" />
     <Compile Include="ClsConexion.cs" />
     <Compile Include="Emilio\ClsSentenciasEmilio.cs" />
     <Compile Include="Jose\ClsSentenciasJose.cs" />

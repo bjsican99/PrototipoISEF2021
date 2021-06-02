@@ -50,3 +50,9 @@ C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHR
 C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
 C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
 C:\Users\yavhe\Documents\GitHub\ProyectoUMGISRUP2k21\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.dll
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\bin\Debug\CapaModeloHRM.pdb
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csprojAssemblyReference.cache
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.dll
+D:\Documentos\Proyectos-Software\3erParcial\PrototipoISEF2021\MODULO_HRM\HRM\CapaModeloHRM\obj\Debug\CapaModeloHRM.pdb

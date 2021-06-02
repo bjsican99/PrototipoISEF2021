@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Billy\clsCRUDRecursos.cs" />
     <Compile Include="Emilio\ClsControladorEmilio.cs" />
     <Compile Include="Jose\ClsControladorJose.cs" />
     <Compile Include="Jose\ClsValidaciones.cs" />

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.Odbc;
 using CapaControladorHRM.Manuel;
+using CapaControladorHRM.Billy;
 using System.Net;
 
 
@@ -18,14 +19,81 @@ namespace CapaVistaHRM.Manuel.Procesos
     {
 
         ClsControladorManuel Cont_R = new ClsControladorManuel();
-
+        clsCRUDRecursos Controlador = new clsCRUDRecursos();
+        DataTable Dt = new DataTable();
         public frmEvaluacion()
         {
             InitializeComponent();
             funcLlenarTipoEvaluacion();
             cmbTipoEntrevista.DropDownStyle = ComboBoxStyle.DropDownList;
             EstadoNoEntrevistados = 1;
+
+            ObtenerUltimoIDMovimientoEncabezado();
+            CargarCombobox1();
         }
+        public void CargarCombobox1()
+        {
+            //llenado de combobox de producto
+            cmbTipoRecursos.DisplayMember = "nombreDeRecurso";
+            cmbTipoRecursos.ValueMember = "pkIdTipoRecurso";
+            cmbTipoRecursos.DataSource = Controlador.funcObtenerCamposCombobox("pkIdTipoRecurso", "nombreDeRecurso", "tiporecurso", "estadoRecurso");
+            cmbTipoRecursos.SelectedIndex = -1;
+        }
+        public void funcAgregarAlDGV()
+        {
+            DataRow dR_fila = Dt.NewRow();
+            dR_fila["ID_ENCABEZADO"] = txtIDEncabezado.Text;
+            dR_fila["ID_RECURSO"] = txtTipoRecurosID.Text;
+            dR_fila["CANTIDAD_UTILIZAR"] = txtCantidadUtilizar.Text;
+            Dt.Rows.Add(dR_fila);
+        }
+        public void funcEliminarFila()
+        {
+            if (dgvDetalleRecursos.CurrentRow == null)
+            {
+                MessageBox.Show("Debe seleccionar una fila antes de eliminar");
+            }
+            else
+            {
+                dgvDetalleRecursos.Rows.Remove(dgvDetalleRecursos.CurrentRow);
+            }
+        }
+        public void ObtenerUltimoIDMovimientoEncabezado()
+        {
+            OdbcDataReader mostrar = Controlador.funcObtenerIdMovimientoEncabezado();
+            try
+            {
+                mostrar.Read();
+                txtIDEncabezado.Text = mostrar.GetString(0);
+                mostrar.Close();
+            }
+            catch (Exception err)
+            {
+                Console.WriteLine(err.Message);
+                if (txtIDEncabezado.Text.Equals(""))
+                {
+                    txtIDEncabezado.Text = "1";
+                }
+            }
+        }
+        public void funcLlenarEncabezado()
+        {
+            Controlador.funcLlenarListaEncabezado(txtIDEncabezado.Text, txtFecha1.Text, txtIDReclutas.Text);
+        }
+        public void funcLlenarDetalle()
+        {
+            for (int intContador = 0; intContador < dgvDetalleRecursos.Rows.Count - 1; intContador++)
+            {
+                Controlador.funcLlenarlistasDetalle(dgvDetalleRecursos.Rows[intContador].Cells[0].Value.ToString(),
+                    dgvDetalleRecursos.Rows[intContador].Cells[1].Value.ToString(), 
+                    dgvDetalleRecursos.Rows[intContador].Cells[2].Value.ToString());
+            }
+        }
+
+
+
+
+
 
         //Declaración de variables Entidad Reclutamiento
         string IdRecluta,Comentarios,OpcionRecluta;
@@ -98,11 +166,56 @@ namespace CapaVistaHRM.Manuel.Procesos
 
         }
 
+        private void dtpFecha1_ValueChanged(object sender, EventArgs e)
+        {
+            txtFecha1.Text = dtpFecha1.Value.ToString("dd/MM/yyyy");
+        }
+
+        private void btnListaReclutas_Click(object sender, EventArgs e)
+        {
+            //Se llama al formulario que contiene todos una tabla de todos los empleados
+            frmMostrarReclutas MostrarReclu = new frmMostrarReclutas(EstadoNoEntrevistados);
+            MostrarReclu.ShowDialog();
+        }
+
+        private void btnGuardarDetalle_Click(object sender, EventArgs e)
+        {
+            funcAgregarAlDGV();
+        }
+
+        private void btnEliminarDetalle_Click(object sender, EventArgs e)
+        {
+            funcEliminarFila();
+        }
+
+        private void btnGuardarRegistros_Click(object sender, EventArgs e)
+        {
+            funcLlenarEncabezado();
+            funcLlenarDetalle();
+            //Controlador.pruebarecorrido();
+            Controlador.insertarEnTransaccion();
+            Controlador.funcEliminar();
+            Dt.Rows.Clear();
+        }
+
+        private void cmbTipoRecursos_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (cmbTipoRecursos.SelectedIndex != -1)
+            {
+                txtTipoRecurosID.Text = cmbTipoRecursos.SelectedValue.ToString();
+            }
+        }
+
         private void frmEntrevista_Load(object sender, EventArgs e)
         {
             
             txtIdBancoTalento.MaxLength = 8;
             txtPunteo.MaxLength = 3;
+
+            Dt.Columns.Add("ID_ENCABEZADO");
+            Dt.Columns.Add("ID_RECURSO");
+            Dt.Columns.Add("CANTIDAD_UTILIZAR");
+            dgvDetalleRecursos.DataSource = Dt;
         }
 
         private void btnReclutas_Click(object sender, EventArgs e)
